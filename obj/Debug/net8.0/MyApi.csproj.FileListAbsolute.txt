@@ -90,3 +90,4 @@ C:\Users\Aymen\Desktop\Aymen\Doc\Factory\Hahn\MyApi\obj\Debug\net8.0\refint\MyAp
 C:\Users\Aymen\Desktop\Aymen\Doc\Factory\Hahn\MyApi\obj\Debug\net8.0\MyApi.pdb
 C:\Users\Aymen\Desktop\Aymen\Doc\Factory\Hahn\MyApi\obj\Debug\net8.0\MyApi.genruntimeconfig.cache
 C:\Users\Aymen\Desktop\Aymen\Doc\Factory\Hahn\MyApi\obj\Debug\net8.0\ref\MyApi.dll
+C:\Users\Aymen\Desktop\Aymen\Doc\Factory\Hahn\MyApi\obj\Debug\net8.0\MyApi.sourcelink.json

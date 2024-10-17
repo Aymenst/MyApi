@@ -45,10 +45,7 @@ namespace MyApi.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateTicket(string id, Ticket ticket)
         {
-            if (id != ticket.Id.ToString())
-            {
-                return BadRequest();
-            }
+            ticket.Id = new ObjectId(id);
             await _ticketService.UpdateTicketAsync(ticket);
             return NoContent();
         }

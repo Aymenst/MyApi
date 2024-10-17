@@ -7,6 +7,9 @@ namespace MyApi.Models
     {
         [BsonId]
         public ObjectId Id { get; set; }
+        
+        [BsonElement("ticketNumber")]
+        public int TicketNumber { get; set; }
 
         [BsonElement("description")]
         public string Description { get; set; }
